@@ -10879,6 +10879,9 @@ html {
 #ok_alert {
   background-color: #eca045;
   border: none;
-  color: #33a115;
+  color: #dbdbdb;
   font-family: cursive;
+}
+#popup {
+  font: Cascade;
 }
