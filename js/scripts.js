@@ -19,3 +19,12 @@ document.getElementById("myButton").addEventListener("click", function() {
   alert("If the link does not opens in 5 seconds, please enable pop ups in your web browser or click HERE ON THE TOP→");
 });
 
+
+document.addEventListener('DOMContentLoaded', function() {
+  var myModal = new bootstrap.Modal(document.getElementById('popup'), {
+    backdrop: 'static',
+    keyboard: false
+  });
+  myModal.show();
+});
+

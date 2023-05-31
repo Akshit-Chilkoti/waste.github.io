@@ -1,3 +1,5 @@
+
+
 function checkPassword() {
   var password = prompt("Opening...");
 
@@ -21,3 +23,15 @@ function checkSite() {
     alert("Wrong Serial Number, Please retry.")
   }
 }
+
+// window.addEventListener("DOMContentLoaded", showPopup);
+
+// function showPopup() {
+//   var popup = document.getElementById("popup");
+//   popup.style.display = "block";
+// }
+
+// function hidePopup() {
+//   var popup = document.getElementById("popup");
+//   popup.style.display = "none";
+// }
