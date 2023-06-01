@@ -1,14 +1,14 @@
 
 
-function checkPassword() {
-  var password = prompt("Opening...");
+// function checkPassword() {
+//   var password = prompt("Opening...");
 
-  if (password === "You Want to see my Account? Ha") {
-    window.open("https://linktr.ee/akshitchilkoti", "_blank");
-  } else {
-    alert("There was an error, please restart your web browser or your computer.");
-  }
-}
+//   if (password === "You Want to see my Account? Ha") {
+//     window.open("https://linktr.ee/akshitchilkoti", "_blank");
+//   } else {
+//     alert("There was an error, please restart your web browser or your computer.");
+//   }
+// }
 
 
 function checkSite() {
